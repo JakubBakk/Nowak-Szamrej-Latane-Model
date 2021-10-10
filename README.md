@@ -3,7 +3,9 @@ Model Nowaka-Szamreja-Latané bazuje na teorii wpływu społecznego. Według psy
  - Siła (S) to sieć wszystkich indywidualnych czynników, które sprawiają, że dana osoba jest wpływowa
  - Natychmiastowość (I) uwzględnia to, jak szybko zdarzenie miało miejsce i czy wystąpiły inne czynniki zakłócające
  - Liczba źródeł (N), która odnosi się do ilości źródeł wpływu
+ 
 W ramach sprawozdania stworzyłem model Nowaka-Szamreja-Latané z następującymi założeniami dla każdego zadania:
+
 - Grupa społeczna jest przedstawiona za pomocą dwuwymiarowej sieci z periodycznymi warunkami brzegowymi.
 - Każdy z N osobników może mieć jeden z trzech radykalnych poglądów (tak/nie) w pewnej sprawie.
 - Każdy osobnik jest charakteryzowany przez dwa parametry pi i si określające intensywność oddziaływań z osobnikami o przeciwnych, bądź tych sam poglądach.
