@@ -1,0 +1,1 @@
+# Nowak-Szamrej-Latane-Model
