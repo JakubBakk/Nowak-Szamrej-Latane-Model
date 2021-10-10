@@ -4,7 +4,7 @@ Model Nowaka-Szamreja-Latané bazuje na teorii wpływu społecznego. Według psy
  - Natychmiastowość (I) uwzględnia to, jak szybko zdarzenie miało miejsce i czy wystąpiły inne czynniki zakłócające
  - Liczba źródeł (N), która odnosi się do ilości źródeł wpływu
  
-W ramach sprawozdania stworzyłem model Nowaka-Szamreja-Latané z następującymi założeniami dla każdego zadania:
+Stworzyłem model Nowaka-Szamreja-Latané z następującymi założeniami dla każdego zadania:
 
 - Grupa społeczna jest przedstawiona za pomocą dwuwymiarowej sieci z periodycznymi warunkami brzegowymi.
 - Każdy z N osobników może mieć jeden z trzech radykalnych poglądów (tak/nie) w pewnej sprawie.
